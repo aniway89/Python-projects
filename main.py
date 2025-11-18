@@ -11,4 +11,12 @@ print(a)
 b = 'here are some of the great things  ,'
 
 
-print(b.replace('  ,','.'))
+print('here' in b) 
+
+
+List = [12,32,34,54]
+Lists = sum(List)
+print(Lists)
+
+a = (7, 0, 8, 0, 0, 9)
+print(a.count(0))
