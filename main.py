@@ -29,3 +29,16 @@ print(type(string))
 print(type(bool))
 print(type(bool2))
 print(type(none))
+
+
+
+a = 5
+b = 10
+
+print('Before swap ', a, b)
+
+tem = a
+a = b
+b = tem 
+
+print('Before swap ', a, b)
