@@ -1,22 +1,18 @@
-list = (1,1,'hello',11,21)
-a = list.index(1)
+'''🔥 Level 1 — Very Easy
 
-print(a)
+Store your name and age in variables and print:
+My name is ___ and I am ___ years old.
 
+Create variables of all data types (int, float, string, bool, None) and print their types.
 
+Swap two variables (a = 5, b = 10 → swap them).
 
-# a = (1,4,2,5,6, "rohan", False)# imutabble
-# no = a.index(2)
-# print(no)
-b = 'here are some of the great things  ,'
+Check if two numbers are equal using comparison operators.
 
-
-print('here' in b) 
+Take a string input and print its length using len().'''
 
 
-List = [12,32,34,54]
-Lists = sum(List)
-print(Lists)
+name = 'ayan'
+age = 15
+print(f'My name is {name} and I am {age} years old')
 
-a = (7, 0, 8, 0, 0, 9)
-print(a.count(0))
