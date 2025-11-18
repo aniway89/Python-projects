@@ -16,7 +16,7 @@ name = 'ayan'
 age = 15
 print(f'My name is {name} and I am {age} years old')
 
-int = -12
+# int = -12
 float = 12.3
 string = 'named string'
 bool = True
@@ -42,3 +42,12 @@ a = b
 b = tem 
 
 print('Before swap ', a, b)
+
+
+Number1 = int(input("Enter you rnumber: "))
+Number2 = int(input('Enter 2nd number '))
+
+if Number1 == Number2 :
+    print('Equal')
+else:
+    print("Unequal")
