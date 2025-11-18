@@ -51,3 +51,8 @@ if Number1 == Number2 :
     print('Equal')
 else:
     print("Unequal")
+
+
+
+Its_a_String = 'Here is the string. I need to check its length'
+print(len(Its_a_String))
