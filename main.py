@@ -16,3 +16,16 @@ name = 'ayan'
 age = 15
 print(f'My name is {name} and I am {age} years old')
 
+int = -12
+float = 12.3
+string = 'named string'
+bool = True
+bool2 = False
+none = None
+
+print(type(int))
+print(type(float))
+print(type(string))
+print(type(bool))
+print(type(bool2))
+print(type(none))
